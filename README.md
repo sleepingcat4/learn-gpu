@@ -1,2 +1,2 @@
-# learn-gpu
-writing obscure gpu code and solving actual calculus problems. if I can write gpu code, I guess I impressed you
+#### Excitement
+Created this repo to solve sasha's tensor puzzles and writing triton kernels. and exploring my fetish for t-ensor calculus.
